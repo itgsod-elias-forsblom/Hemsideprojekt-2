@@ -1,6 +1,11 @@
-body {
-    background-color:#16447F;
+html, body {
+    background-color: #eeeeee;
 }
-#meny {
-    color:#16447F ;
+
+#menu {
+    background-color:#71AFFF;
+}
+
+#header {
+    background-color: #eeeeee;
 }
