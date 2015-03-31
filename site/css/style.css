@@ -2,10 +2,38 @@ html, body {
     background-color: #eeeeee;
 }
 
-#menu {
-    background-color:#71AFFF;
-}
-
 #header {
     background-color: #eeeeee;
+    padding-left: 40px;
 }
+
+#menu {
+    background-color: #00688d;
+    margin-bottom: -1px;
+    border-width: 0;
+    border-radius: 0;
+}
+
+#menutext {
+    color:#000000;
+    text-decoration-style: double;
+    font-weight: bold;
+}
+
+.active {
+    color:#005E7F;
+}
+
+
+.navbar {
+    padding-right: 0px;
+
+}
+
+#textbox {
+    padding-top: 50px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    background-color: #eeeeee;
+}
+
