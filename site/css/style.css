@@ -1,39 +1,42 @@
 html, body {
-    background-color: #eeeeee;
+    background-color: #18121D;
 }
 
 #header {
-    background-color: #eeeeee;
+    background-color: #18121D;
     padding-left: 40px;
 }
 
 #menu {
-    background-color: #00688d;
+    background-color: #5D4966;
     margin-bottom: -1px;
     border-width: 0;
     border-radius: 0;
 }
 
 #menutext {
-    color:#000000;
+    color:#C39EBC;
     text-decoration-style: double;
     font-weight: bold;
 }
 
-.active {
-    color:#005E7F;
-}
 
-
-.navbar {
-    padding-right: 0px;
+.navbar ul  {
+    margin-left: 300px;
 
 }
 
 #textbox {
     padding-top: 50px;
-    padding-bottom: 0px;
-    margin-top: 0px;
-    background-color: #eeeeee;
 }
 
+#textruta {
+    margin-left: 540px;
+}
+
+#activemenutext {
+    background-color:#C39EBC;
+    color:#18121D;
+    text-decoration-style: double;
+    font-weight: bold;
+}
