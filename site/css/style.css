@@ -9,9 +9,11 @@ html, body {
 
 #menu {
     background-color: #5D4966;
-    margin-bottom: -1px;
-    border-width: 0;
-    border-radius: 0;
+    margin-bottom: 30px;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #C39EBC;
+
 }
 
 #menutext {
@@ -20,18 +22,17 @@ html, body {
     font-weight: bold;
 }
 
-
-.navbar ul  {
-    margin-left: 300px;
-
 }
 
 #textbox {
     padding-top: 50px;
+    border-width: 1px;
+    border-color: #C39EBC;
 }
 
 #textruta {
-    margin-left: 540px;
+
+
 }
 
 #activemenutext {
@@ -39,4 +40,28 @@ html, body {
     color:#18121D;
     text-decoration-style: double;
     font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color:#C39EBC;
+    text-align: center
+}
+
+.item {
+    margin-left: 0px;
+    opacity: 0.8;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
 }
