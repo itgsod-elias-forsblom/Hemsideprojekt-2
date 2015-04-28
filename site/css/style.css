@@ -5,6 +5,7 @@ html, body {
 #header {
     background-color: #18121D;
     padding-left: 40px;
+    text-align: center;
 }
 
 #menu {
@@ -65,3 +66,4 @@ h1, h2, h3, h4, h5, h6, p {
 .navbar .navbar-collapse {
     text-align: center;
 }
+
