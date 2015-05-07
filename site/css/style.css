@@ -1,5 +1,6 @@
 html, body {
     background-color: #18121D;
+    width: 100%;
 }
 
 #header {
@@ -65,5 +66,29 @@ h1, h2, h3, h4, h5, h6, p {
 
 .navbar .navbar-collapse {
     text-align: center;
+}
+
+legend {
+    text-align: center;
+    color: #C39EBC;
+}
+
+.well-sm {
+    background-color:#5D4966;
+}
+
+
+
+.btn-lg {
+    background-color: #C39EBC;
+    border-color: #C39EBC;
+}
+
+
+
+#formular {
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #5D4966 ;
 }
 
