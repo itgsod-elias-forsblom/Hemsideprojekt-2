@@ -89,6 +89,15 @@ legend {
 #formular {
     margin-left: 25%;
     margin-right: 25%;
-    color: #5D4966 ;
+    color: #5D4966;
+}
+
+
+
+table#t01 {
+    width: 100%;
+    background-color: #5D4966;
+    color: #C39EBC;
+    border-radius: 4px;
 }
 
