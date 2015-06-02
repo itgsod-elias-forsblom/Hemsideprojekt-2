@@ -94,43 +94,25 @@ table#t01 {
 }
 
 .sprite {
-    background-image: url(../img/spritesheet.png);
+    background-image: url(../spritesheet.png);
     background-repeat: no-repeat;
     display: block;
-}
-
-.sprite-idrottsskolanslogga {
-    width: 1200px;
-    height: 200px;
-    background-position: -5px -5px;
 }
 
 .sprite-lararportratt {
     width: 400px;
     height: 300px;
-    background-position: -5px -215px;
+    background-position: 0 0;
 }
 
 .sprite-lararportratt2 {
     width: 400px;
     height: 300px;
-    background-position: -415px -215px;
+    background-position: 0 -300px;
 }
 
 .sprite-lararportratt3 {
-    width: 400px;
+    width: 300px;
     height: 300px;
-    background-position: -825px -215px;
-}
-
-.sprite-schema {
-    width: 1259px;
-    height: 516px;
-    background-position: -5px -525px;
-}
-
-.sprite-skolgard {
-    width: 1024px;
-    height: 682px;
-    background-position: -1274px -5px;
+    background-position: -400px 0;
 }
